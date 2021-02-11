@@ -32,5 +32,5 @@ $decoded = Crockford::decode("14S-C0P-JV", true);
 
 ## Credits
 
-https://github.com/dflydev/dflydev-base32-crockford
-https://github.com/jbittel/base32-crockford
+- https://github.com/dflydev/dflydev-base32-crockford
+- https://github.com/jbittel/base32-crockford
