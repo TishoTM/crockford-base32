@@ -1,5 +1,12 @@
 # Crockford Base32
 
+<p align="left">
+<a href="https://travis-ci.org/github/TishoTM/crockford-base32"><img src="https://api.travis-ci.org/TishoTM/crockford-base32.svg?branch=master" alt="Build Status" /></a>
+<a href="https://packagist.org/packages/tishotm/crockford-base32"><img class="badge" src="https://poser.pugx.org/tishotm/crockford-base32/version" alt="Version" /></a>
+<a href="https://packagist.org/packages/tishotm/crockford-base32"><img class="badge" src="https://poser.pugx.org/tishotm/crockford-base32/downloads" alt="Total Downloads" /></a>
+<a href="https://packagist.org/packages/tishotm/crockford-base32"><img class="badge" src="https://poser.pugx.org/tishotm/crockford-base32/license" alt="License" /></a>
+</p>
+
 "Base 32 is a textual 32-symbol notation for expressing numbers in a form that can be conveniently and accurately transmitted between humans and computer systems. It can be used for out of band communication of public keys."
 
 https://www.crockford.com/base32.html
